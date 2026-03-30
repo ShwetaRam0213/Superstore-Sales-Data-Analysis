@@ -54,7 +54,7 @@ The dataset contains transactional sales data of a retail superstore, including:
 
 ### 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard-sales.png)
 
 ---
 
@@ -62,19 +62,28 @@ The dataset contains transactional sales data of a retail superstore, including:
 
 #### 📍 Sales by Segment
 - Consumer dominates sales contribution
+- ![Dashboard](Sales-segment-wise.png)
 
 #### 📅 Sales by Month
 - Identifies seasonal trends and peak months
+- ![Dashboard](Sales-month-wise.png)
 
 #### 🗺 Sales by State
 - Highlights top-performing states
+- ![Dashboard](Highest-sale-state.png)
 
 #### 🌍 Region-wise Quantity
 - Compares purchasing patterns across regions
+- ![Dashboard](Sales-region-wise.png)
 
 #### 📦 Category Performance
-- Office Supplies leads in total sales
+- Shows which category has the hightest no. of sales 
+- ![Dashboard](Highest-sale-category.png)
 
+#### 📦 Useful Insights
+- Key readings of the dashboard
+- ![Dashboard](Key-insights.png)
+- 
 ---
 
 ### 🚀 Conclusion
